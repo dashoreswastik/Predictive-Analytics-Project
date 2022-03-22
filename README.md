@@ -1,6 +1,9 @@
 # Predictive-Analytics-Project
 
-The project contains 4 ipynb files. 
+The project contains 4 ipynb files. <br>
+
+
+
 Three different ways for face detection has been used.
 First Method is by using SVM classifier. Second using CNN model.Third using Viola-Jones method.
 ALL the three methods have been performed on two different datasets, LFW and Yale Face datasets.
